@@ -1,6 +1,6 @@
 # Game Save Scripts
 
-A collection of simple bat scripts which do nothing more than use [7zip](https://www.7-zip.org/) to back up save folders onto a folder on your desktop every few minutes.
+A collection of simple bat scripts which do nothing more than use [7-Zip](https://www.7-zip.org/) to back up save folders onto a folder on your desktop every few minutes.
 
 As 7-Zip doesn't automatically add to PATH, make sure you install the 64bit edition of 7-Zip or else you'll get parameter errors (basically, "C:\Program Files\7-Zip\7z.exe" needs to exist).
 
