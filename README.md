@@ -1,4 +1,5 @@
-#Game Save Scripts
+# Game Save Scripts
+
 A collection of simple bat scripts which do nothing more than use [7zip](https://www.7-zip.org/) to back up save folders onto a folder on your desktop every few minutes.
 
 As 7-Zip doesn't automatically add to PATH, make sure you install the 64bit edition of 7-Zip or else you'll get parameter errors (basically, "C:\Program Files\7-Zip\7z.exe" needs to exist).
@@ -8,7 +9,7 @@ To use, simply double click the .bat file and it will immediately make a backup 
 The zips will be time stamped, but not date stamped; didn't see a need for dating it. Just move or delete older zips when you quit the game.
 
 
-#Background
+# Background
 
 The initial purpose of this was for Ori and the Blind Forest Definitive Edition, where the developers expect me to spend 000's of hours practicing to
 complete the game in One Life Mode
